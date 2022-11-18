@@ -6,4 +6,12 @@ Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Compani
  **Team ID: PNT2022TMID29716**
 
 
+Team members
+SRI VARDHANI V
+MAHALAKSHMI B
+MUGESH M
+MOHANKUMAR R
+
+
+
 
