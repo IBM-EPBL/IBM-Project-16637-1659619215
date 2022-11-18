@@ -7,10 +7,10 @@ Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Compani
 
 
 Team members
-SRI VARDHANI V
-MAHALAKSHMI B
-MUGESH M
-MOHANKUMAR R
+SRI VARDHANI V,
+MAHALAKSHMI B,
+MUGESH M,
+MOHANKUMAR R.
 
 
 
